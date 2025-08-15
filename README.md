@@ -22,7 +22,8 @@ In Gurgaon’s rapidly growing real estate market, increasing urbanization and l
 - **Source**: Scraped from 99acres and other property listing websites.
 - **Raw Data**:  
   - Flats dataset: 3018 rows × 17 columns  
-  - Houses dataset: 1045 rows × 18 columns  
+  - Houses dataset: 1045 rows × 18 columns
+  - appartments.csv — Additional apartment listings with similar features
 - **Cleaned & Merged Dataset**: 3555 rows × 13 selected features after:
   - Data cleaning, including handling missing values and removing outliers
   - Feature engineering, such as luxury score, furnishing details, and age of possession
